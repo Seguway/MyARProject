@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 94ea703092e443c419c838af90b79a9d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 1
+  _deduplicateResources: 0
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importBlendShapeNames: 1
+  _blendShapeFrameWeight:
+    _option: 0
+    _multiplier: 1
+  _importNormals: 0
+  _importTangents: 0
+  _importCamera: 0
+  _importAnimations: 2
+  _mecanimHumanoidFlip: 0
+  _addAnimatorComponent: 0
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _enableGpuInstancing: 0
+  _texturesReadWriteEnabled: 1
+  _generateMipMaps: 1
+  _useSceneNameIdentifier: 1
+  _textureCompression: 100
+  _gltfAsset: '<b>Generator: </b>Sketchfab-14.69.0
+
+    <b>Version: </b>2.0
+
+    
+
+    <b>Extras:
+    </b>
+
+    "author": "MUSHROOM_BUILDS (https://sketchfab.com/MUSHROOM_BUILDS)"
+
+    "license":
+    "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)"
+
+    "source": "https://sketchfab.com/3d-models/rog-strix-x370-f-motherboard-56bd8923fdf341fd8d81b717055a61dd"
+
+    "title":
+    "Rog Strix x370-f Motherboard"
+
+'
+  optimizeGameObjects: 0
+  materials:
+  - {fileID: -2840136634868304333, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: -876546973899608171, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: -6478536213147159724, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: -6922793697723135513, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: -3846018093981099296, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: 3780671244086486322, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: -2813467912831258332, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: 1886820026795636259, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: 880774007180850119, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: 4874126678125670354, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: -8274133419916619345, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: -3522955778539423533, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: 9185737683893222716, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: -2813337366143557646, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: 725804396391725484, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: 637949407474519127, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: -5998004595915773402, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: -5605289326131794027, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: -4246479402191905792, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: -7198559261415225722, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: -8693172909504858975, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: -6629797300637803691, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: -6087771358165109452, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: 6699446615349125189, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: 4231889536514150127, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: 3016479151454471876, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  textures:
+  - {fileID: 6983701643236107813, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: 8022499087761476943, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: 5230624929818990856, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  - {fileID: -2834534249764746836, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+  hasSceneData: 1
+  hasAnimationData: 0
+  hasMaterialData: 1
+  hasTextureData: 1
+  animations: []
+  _extensions:
+  - name: KHR_materials_emissive_strength
+    supported: 1
+    used: 1
+    required: 0
+  _textures:
+  - texture: {fileID: 6983701643236107813, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 8022499087761476943, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 5230624929818990856, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: -2834534249764746836, guid: 94ea703092e443c419c838af90b79a9d, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  _mainAssetIdentifier: scenes/Sketchfab_Scene
+  _importPlugins: []

@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 732ffcdab1e18f0468cb8159f5d76698
+importerOverride:
+  nativeImporterType: 2089858483
+  scriptedImporterType:
+    serializedVersion: 2
+    Hash: b0f0efd5afe97376296c08894c84a3f1
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 1
+  _deduplicateResources: 0
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importBlendShapeNames: 1
+  _blendShapeFrameWeight:
+    _option: 0
+    _multiplier: 1
+  _importNormals: 0
+  _importTangents: 0
+  _importCamera: 2
+  _importAnimations: 2
+  _mecanimHumanoidFlip: 0
+  _addAnimatorComponent: 0
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _enableGpuInstancing: 0
+  _texturesReadWriteEnabled: 1
+  _generateMipMaps: 1
+  _useSceneNameIdentifier: 1
+  _textureCompression: -50
+  _gltfAsset: '<b>Generator: </b>Sketchfab-16.45.0
+
+    <b>Version: </b>2.0
+
+    
+
+    <b>Extras:
+    </b>
+
+    "author": "ryad_raba (https://sketchfab.com/ryad_raba)"
+
+    "license":
+    "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)"
+
+    "source": "https://sketchfab.com/3d-models/charizard-flying-animation-cf5a229a8ce34ff2b7c3f92426c5709b"
+
+    "title":
+    "Charizard Flying Animation"
+
+'
+  optimizeGameObjects: 0
+  materials:
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  - {instanceID: 0}
+  textures:
+  - {fileID: 2800000, guid: 58d288c48b30c9443ba2df33e69e07e3, type: 3}
+  - {fileID: 2800000, guid: e24ee01c1cc26f64d83d2c2c4ca2a475, type: 3}
+  - {fileID: 2800000, guid: 709ef55448a37dd4b842e5445d5074d0, type: 3}
+  - {fileID: 2800000, guid: db1c90064c660204da3d0d497b4eab98, type: 3}
+  - {fileID: 2800000, guid: ebd5a3d015470344292519a7c413da5d, type: 3}
+  - {fileID: 2800000, guid: b2adcb2aa90d9fa45ae66aa7cdfbca2e, type: 3}
+  - {fileID: 2800000, guid: ecb9c1555af5e934da8918748bd502d8, type: 3}
+  - {fileID: 2800000, guid: 4622f0bc9c53be94cb92b8bbc13854b8, type: 3}
+  - {fileID: 2800000, guid: 251b926004547b147b1e6cc24d73fc13, type: 3}
+  - {fileID: 2800000, guid: 6c335b180076f0e448354f75891171f7, type: 3}
+  - {fileID: 2800000, guid: 365e7f6406222ef43bd3287703fa9720, type: 3}
+  - {fileID: 2800000, guid: 17ed9b165ec8d4043afd04644c8a989b, type: 3}
+  - {fileID: 2800000, guid: ec94036a8b383c4439536a674623fd18, type: 3}
+  - {fileID: 2800000, guid: 1ab3688ced48a9a4ab3920a609b39e01, type: 3}
+  - {fileID: 2800000, guid: fe35bec496ac4b647b2d79067fa408ab, type: 3}
+  hasSceneData: 1
+  hasAnimationData: 1
+  hasMaterialData: 1
+  hasTextureData: 1
+  animations:
+  - name: Flying
+  _extensions:
+  - name: KHR_materials_specular
+    supported: 1
+    used: 1
+    required: 0
+  - name: KHR_materials_clearcoat
+    supported: 1
+    used: 1
+    required: 0
+  - name: KHR_materials_transmission
+    supported: 1
+    used: 1
+    required: 0
+  _textures:
+  - texture: {fileID: 2800000, guid: 58d288c48b30c9443ba2df33e69e07e3, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: e24ee01c1cc26f64d83d2c2c4ca2a475, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 709ef55448a37dd4b842e5445d5074d0, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 2800000, guid: db1c90064c660204da3d0d497b4eab98, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: ebd5a3d015470344292519a7c413da5d, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: b2adcb2aa90d9fa45ae66aa7cdfbca2e, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: ecb9c1555af5e934da8918748bd502d8, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 2800000, guid: 4622f0bc9c53be94cb92b8bbc13854b8, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 251b926004547b147b1e6cc24d73fc13, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 2800000, guid: 6c335b180076f0e448354f75891171f7, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 365e7f6406222ef43bd3287703fa9720, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 2800000, guid: 17ed9b165ec8d4043afd04644c8a989b, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: ec94036a8b383c4439536a674623fd18, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 1ab3688ced48a9a4ab3920a609b39e01, type: 3}
+    shouldBeLinear: 1
+    shouldBeNormalMap: 1
+  - texture: {fileID: 2800000, guid: fe35bec496ac4b647b2d79067fa408ab, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  _mainAssetIdentifier: scenes/Sketchfab_Scene
+  _importPlugins: []
